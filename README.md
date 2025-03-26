@@ -1,6 +1,6 @@
 # 💰 Projeto Nikel
 
-O **Projeto Nikel** é um sistema web de controle financeiro, desenvolvido com o apoio da [Codaí](https://codai.growdev.com.br/), com o objetivo de praticar habilidades em **desenvolvimento web**.
+O **Projeto Nikel** é um sistema web de controle financeiro, desenvolvido com o apoio da https://www.plataforma.growdev.com.br/, com o objetivo de praticar habilidades em **desenvolvimento web**.
 
 ## 🧠 Objetivo
 
